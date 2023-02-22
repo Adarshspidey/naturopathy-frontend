@@ -1,0 +1,8 @@
+.ayur-background {
+  margin-top: 20px;
+  height: 500px;
+  background-image: url(../../Assets/Image/landingPage.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

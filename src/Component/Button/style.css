@@ -1,0 +1,14 @@
+.button-common {
+  padding: 10px 20px;
+  border-radius: 15px;
+  border: none;
+}
+
+.button-primary {
+  background-color: green;
+  color: white;
+}
+
+.button-secondary {
+  background-color: white;
+}
