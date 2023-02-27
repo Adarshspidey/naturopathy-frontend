@@ -18,3 +18,13 @@
 .content-main {
   font-size: var(--medium);
 }
+
+.home-body {
+  padding: 20px;
+}
+
+.button-end {
+  display: flex;
+  justify-content: end;
+  padding: 10px 0;
+}
