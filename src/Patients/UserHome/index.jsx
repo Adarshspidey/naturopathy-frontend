@@ -17,7 +17,7 @@ const UserHome = () => {
       <SuggestionBox
         type="reply"
         postBy="Dr Jhon"
-        content="Hi use this medicine"
+        content="Hi use this medicines"
       />
     </div>
   );
